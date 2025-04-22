@@ -5,10 +5,22 @@
 
 1. `Регистрация на github уже есть`
 
+![1](https://github.com/Foxbeerxxx/devops-netology/blob/main/img/1.png)`
 
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
+2. `Создаем репозиторий на Github`
+
+![2](https://github.com/Foxbeerxxx/devops-netology/blob/main/img/2.png)`
+
+
+3. `Задаю имя и почту , проверяю статус`
+![3](https://github.com/Foxbeerxxx/devops-netology/blob/main/img/3.png)`
+
+4. `Проверяю команду git diff`
+
+![4](https://github.com/Foxbeerxxx/devops-netology/blob/main/img/4.png)`
+
+
+
 5. `Заполните здесь этапы выполнения, если требуется ....`
 6. 
 
@@ -21,7 +33,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+
 
 
 ---
