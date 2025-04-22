@@ -24,6 +24,18 @@
 5. `В Каталоге terraform создаю .gitignore файл и заполняю его, как итог будут проигнорированы описанные там файлы`
 
 ```
+Ниже наполнение .gitignore в каталоге  terraform и в нем будут игнорироваться 
+1) **/.terraform/* - все каталоги .terraform и их содержимое  
+2)*.tfstate,*.tfstate.* - файлы состояния
+3)crash.log,crash.*.log - файлы с логами
+4)*.tfvars,*.tfvars.json - файлы с переменными и файл с ключами/ключами
+5)override.tf,override.tf.json,*_override.tf,*_override.tf.json - файлы переопределения
+6).terraformrc,terraform.rc - конфиги CLI
+ и т.д.
+
+```
+
+```
 # Local .terraform directories
 **/.terraform/*
 
