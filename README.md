@@ -27,8 +27,8 @@
 
 ```
 
-6. `Проверяем git log`
+6. `Ветки`
 
-![5](https://github.com/Foxbeerxxx/devops-netology/blob/main/img/5.png)`
+![15](https://github.com/Foxbeerxxx/devops-netology/blob/dop/img/15.png)`
 
 
