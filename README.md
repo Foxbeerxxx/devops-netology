@@ -19,16 +19,8 @@
 
 ![13](https://github.com/Foxbeerxxx/devops-netology/blob/dop/img/13.png)`
 
-
-
-5. `В Каталоге terraform создаю .gitignore файл и заполняю его, как итог будут проигнорированы описанные там файлы`
-
-```
-
-```
-
-6. `Ветки`
+5. `Ветки`
 
 ![15](https://github.com/Foxbeerxxx/devops-netology/blob/dop/img/15.png)`
 
-
+6. `IDE PyCharm не пробовал, но по немногу работаю в Visual Studio Code и это ействительно очень удобно`
